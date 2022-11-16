@@ -34,6 +34,7 @@ public class Demo {
 		
 		
 		System.out.println(al.get(2));
+		System.out.println(al.get(2));
 	
 		
 	}
